@@ -1,0 +1,5 @@
+[
+  { "cpf": "11111111111", "renda": 2600, "parcelasAtivas": [310, 445] },
+  { "cpf": "22222222222", "renda": 4150, "parcelasAtivas": [] },
+  { "cpf": "33333333333", "renda": 1518, "parcelasAtivas": [265, 180, 110] }
+]
