@@ -56,3 +56,4 @@ tests/
 A regra de margem fica isolada em `src/domain/regras.ts`, sem dependência de HTTP, para ser testada e reaproveitada sozinha.
 
 Decisões e premissas estão em [DECISOES.md](./DECISOES.md).
+As respostas da Parte 1 (raciocínio) estão em [PARTE1.md](./PARTE1.md).
